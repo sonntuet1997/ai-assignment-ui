@@ -8,3 +8,4 @@ Dockerfile
 docker-compose.yml
 node_modules/         # Installed inside container
 deploy/
+.env
